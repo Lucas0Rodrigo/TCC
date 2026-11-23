@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Paleta_de_Cores" data-name="Paleta de Cores" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1414.29">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        fill: #cc8976;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-9 {
+        fill: #e8d1bb;
+      }
+
+      .cls-10 {
+        fill: #fff;
+        font-family: Montserrat-SemiBold, Montserrat;
+        font-size: 33.6px;
+        font-weight: 600;
+      }
+
+      .cls-11 {
+        fill: url(#Gradiente_sem_nome_7);
+      }
+
+      .cls-12 {
+        fill: #522f1e;
+      }
+
+      .cls-13 {
+        fill: #cb9f77;
+      }
+
+      .cls-14 {
+        letter-spacing: .01em;
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_7" data-name="Gradiente sem nome 7" x1="500" y1="1392.5" x2="500" y2="24.65" gradientUnits="userSpaceOnUse">
+      <stop offset=".11" stop-color="#522f1e"/>
+      <stop offset=".41" stop-color="#cc8976"/>
+      <stop offset=".64" stop-color="#cb9f77"/>
+      <stop offset=".9" stop-color="#e8d1bb"/>
+    </linearGradient>
+  </defs>
+  <rect id="Fndo" class="cls-11" width="1000" height="1414.29"/>
+  <g id="Cores">
+    <rect class="cls-12" x="154.3" y="277.61" width="691.4" height="250.48" rx="74.55" ry="74.55"/>
+    <rect class="cls-6" x="154.3" y="480.47" width="691.4" height="250.48" rx="74.55" ry="74.55"/>
+    <rect class="cls-13" x="154.3" y="683.33" width="691.4" height="250.48" rx="74.55" ry="74.55"/>
+    <rect class="cls-9" x="154.3" y="886.2" width="691.4" height="250.48" rx="74.55" ry="74.55"/>
+  </g>
+  <g id="hex">
+    <text class="cls-10" transform="translate(249 321.8)"><tspan x="0" y="0">#</tspan><tspan class="cls-5" x="23.89" y="0">5</tspan><tspan class="cls-4" x="43.34" y="0">22</tspan><tspan class="cls-14" x="82.45" y="0">F</tspan><tspan x="104.35" y="0">1E</tspan></text>
+    <text class="cls-10" transform="translate(241.74 528.09)"><tspan x="0" y="0">#</tspan><tspan class="cls-8" x="23.89" y="0">C</tspan><tspan class="cls-2" x="46.87" y="0">C</tspan><tspan x="70.56" y="0">8</tspan><tspan class="cls-1" x="92.46" y="0">9</tspan><tspan class="cls-7" x="113.36" y="0">7</tspan><tspan class="cls-4" x="133.11" y="0">6</tspan></text>
+    <text class="cls-10" transform="translate(240.22 730.95)"><tspan x="0" y="0">#CB9</tspan><tspan class="cls-3" x="94.64" y="0">F</tspan><tspan class="cls-4" x="116.38" y="0">77</tspan></text>
+    <text class="cls-10" transform="translate(234.14 933.82)"><tspan x="0" y="0">#</tspan><tspan class="cls-1" x="23.89" y="0">E</tspan><tspan x="46.23" y="0">8D0BA</tspan></text>
+  </g>
+</svg>
